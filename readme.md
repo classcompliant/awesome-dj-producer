@@ -1,6 +1,6 @@
 # Awesome DJ / Producer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-** Manually curated collection of tools, resources and tutorials for nerdy DJs and Producers.**
+** Manually curated collection of tools, resources and tutorials for nerdy DJs and Producers. **
 
 
 ## Contents
