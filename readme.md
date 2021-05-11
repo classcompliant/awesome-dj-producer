@@ -45,6 +45,10 @@ About this section. Optional. Keep this short and focus on the list.
 - [LaserProjector](https://github.com/DeltaFlo/LaserProjector) - Arduino driven Laser Projector using real galvos, read the [Tutorial](https://www.instructables.com/Arduino-Laser-Show-With-Real-Galvos/)
 - [PingPong LED Wall](https://github.com/bitluni/PingPongLEDMatrix) - LED video wall based on WS2812 controlled RGB LEDs and supported by a wide range of Arduino libraries, watch the [Video](https://www.youtube.com/watch?v=fz2QAV9z_o8)
 
+### Software Highjacking
+
+- [Binwalk](https://github.com/ReFirmLabs/binwalk) - analyzing, reverse engineering, and extracting firmware images
+- [Pioneer DJS 1000 Hack](https://www.reddit.com/r/DJs/comments/cb4oom/a_twitter_user_hacks_pioneer_gear_interesting/) - interesting look into the underlying Linux functionality
 
 ## Contribute
 
