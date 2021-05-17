@@ -33,6 +33,10 @@
 
 About this section. Optional. Keep this short and focus on the list.
 
+### Synthesizers
+
+- [TubeOhm](https://www.tubeohm.com/page.html) - DIY kits, synthesizer and Eurorack DIY modules
+
 ### Midi / USB - Controller
 
 - [Model D Controller](https://github.com/maasijam/model_d_controller) - Teensy based USB Midi-Controller for the Moog Model D App
