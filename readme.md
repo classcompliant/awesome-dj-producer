@@ -54,6 +54,10 @@ About this section. Optional. Keep this short and focus on the list.
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - analyzing, reverse engineering, and extracting firmware images
 - [Pioneer DJS 1000 Hack](https://www.reddit.com/r/DJs/comments/cb4oom/a_twitter_user_hacks_pioneer_gear_interesting/) - interesting look into the underlying Linux functionality
 
+### Music Visualizer
+
+- [projectM](https://github.com/projectM-visualizer/projectm) - Experience psychedelic and mesmerizing visuals by transforming music into equations that render into a limitless array of user-contributed visualizations.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
