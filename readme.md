@@ -53,6 +53,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - analyzing, reverse engineering, and extracting firmware images
 - [Pioneer DJS 1000 Hack](https://www.reddit.com/r/DJs/comments/cb4oom/a_twitter_user_hacks_pioneer_gear_interesting/) - interesting look into the underlying Linux functionality
+- [Launchpad Pro performance-optimized Custom Firmware](https://github.com/mat1jaczyyy/lpp-performance-cfw/) - custom firmware for the Launchpad Pro ([Video](https://www.youtube.com/watch?v=6RfCKHeGWe0))
 
 ### Music Visualizer
 
