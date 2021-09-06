@@ -34,7 +34,7 @@
 About this section. Optional. Keep this short and focus on the list.
 
 ### Synthesizers
-
+- [Zynthian](https://zynthian.org/) - Open Synth Platform on #Raspberry
 - [TubeOhm](https://www.tubeohm.com/page.html) - DIY kits, synthesizer and Eurorack DIY modules
 
 ### Midi / USB - Controller
@@ -48,6 +48,10 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [LaserProjector](https://github.com/DeltaFlo/LaserProjector) - Arduino driven Laser Projector using real galvos, read the [Tutorial](https://www.instructables.com/Arduino-Laser-Show-With-Real-Galvos/)
 - [PingPong LED Wall](https://github.com/bitluni/PingPongLEDMatrix) - LED video wall based on WS2812 controlled RGB LEDs and supported by a wide range of Arduino libraries, watch the [Video](https://www.youtube.com/watch?v=fz2QAV9z_o8)
+
+#### Frekvens
+- [IKEA frekvens hacks by Teenage Engineering](https://teenage.engineering/designs/frekvens-hacks)
+- [Frekvens LED box hack with Camera](http://spritesmods.com/?art=frekvens)
 
 ### Software Highjacking
 
