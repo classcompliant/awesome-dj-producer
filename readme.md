@@ -5,6 +5,7 @@
 
 ## Contents
 - [Ressources](#Ressources)
+- [Hardware](#hardware)
 - [Software](#software)
 - [DIY](#DIY)
 
@@ -12,6 +13,12 @@
 ## Ressources
 
 - [ClassCompliant](https://classcompliant.com) - Archive and Hacks for all class compliant Music Gear
+
+## Hardware
+
+Some commercial products that outstand.
+
+- [Yaeltex](https://yaeltex.com/) - custom MIDI controllers made in harmony between humans and machines in Buenos Aires, Argentina.
 
 ## Software
 
