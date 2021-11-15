@@ -22,6 +22,10 @@ Some commercial products that outstand.
 
 ## Software
 
+### DAW
+
+- [BESPOKE](https://www.bespokesynth.com/) - An Open Source modular DAW for Mac, Windows, and Linux.
+
 ### DJ
 
 - [Mixxx](https://github.com/mixxxdj/mixxx) - Free DJ for GNU/Linux, Windows, and macOS
