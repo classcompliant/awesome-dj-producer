@@ -26,6 +26,15 @@ Some commercial products that outstand.
 
 - [BESPOKE](https://www.bespokesynth.com/) - An Open Source modular DAW for Mac, Windows, and Linux.
 
+#### Bitwig
+
+- [DrivenByMoss](http://mossgrabers.de/Software/Bitwig/Bitwig.html) - Bitwig Studio Extension for several controllers
+
+#### Reaper
+
+- [DrivenByMoss](http://mossgrabers.de/Software/Reaper/Reaper.html) - Reaper Support for several hardware controllers
+
+
 ### DJ
 
 - [Mixxx](https://github.com/mixxxdj/mixxx) - Free DJ for GNU/Linux, Windows, and macOS
