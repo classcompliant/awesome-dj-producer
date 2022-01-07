@@ -43,6 +43,7 @@ Some commercial products that outstand.
 ### Synthesizer
 
 - [Surge](https://surge-synthesizer.github.io/) - Free & Open Source hybrid Synthesizer for Linux, Mac, Windows
+- [Patch Base](https://coffeeshopped.com/patch-base) - UI for creating sounds for Synthesizers
 
 ### Programming
 
