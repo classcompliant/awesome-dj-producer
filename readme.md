@@ -74,8 +74,9 @@ About this section. Optional. Keep this short and focus on the list.
 - [IKEA frekvens hacks by Teenage Engineering](https://teenage.engineering/designs/frekvens-hacks)
 - [Frekvens LED box hack with Camera](http://spritesmods.com/?art=frekvens)
 
-### Software Highjacking
+### Software Highjacking / Reverse Engineering
 
+- [RE K2500(http://blog.petersobot.com/patching-the-k2500) - Patching an Embedded OS of an Kurzweil K2500 from 1996 by Peter Sobot
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - analyzing, reverse engineering, and extracting firmware images
 - [Pioneer DJS 1000 Hack](https://www.reddit.com/r/DJs/comments/cb4oom/a_twitter_user_hacks_pioneer_gear_interesting/) - interesting look into the underlying Linux functionality
 - [Launchpad Pro performance-optimized Custom Firmware](https://github.com/mat1jaczyyy/lpp-performance-cfw/) - custom firmware for the Launchpad Pro ([Video](https://www.youtube.com/watch?v=6RfCKHeGWe0))
