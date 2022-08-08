@@ -1,6 +1,6 @@
 # Awesome DJ / Producer [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-** Manually curated collection of tools, resources and tutorials for nerdy DJs and Producers. **
+** Manually curated collection of open tools, resources and tutorials for nerdy DJs and Producers. **
 
 
 ## Contents
@@ -14,12 +14,6 @@
 
 - [ClassCompliant](https://classcompliant.com) - Archive and Hacks for all class compliant Music Gear
 
-## Hardware
-
-Some commercial products that outstand.
-
-- [Yaeltex](https://yaeltex.com/) - custom MIDI controllers made in harmony between humans and machines in Buenos Aires, Argentina.
-
 ## Software
 
 ### DAW
@@ -27,10 +21,12 @@ Some commercial products that outstand.
 - [BESPOKE](https://www.bespokesynth.com/) - An Open Source modular DAW for Mac, Windows, and Linux.
 
 #### Bitwig
+[Bitwig](https://www.bitwig.com/) is a modern music production and performance for Windows, macOS, and Linux.
 
 - [DrivenByMoss](http://mossgrabers.de/Software/Bitwig/Bitwig.html) - Bitwig Studio Extension for several controllers
 
 #### Reaper
+[REAPER](https://www.reaper.fm/) is a complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset.
 
 - [DrivenByMoss](http://mossgrabers.de/Software/Reaper/Reaper.html) - Reaper Support for several hardware controllers
 
@@ -42,6 +38,7 @@ Some commercial products that outstand.
 
 ### Synthesizer
 
+- [DSP56300](https://dsp56300.wordpress.com/) - Reverse Engineering and Emulating the Motorola DSP563xx for Access Virus C & other virtual analogue synthesizers
 - [Surge](https://surge-synthesizer.github.io/) - Free & Open Source hybrid Synthesizer for Linux, Mac, Windows
 - [Patch Base](https://coffeeshopped.com/patch-base) - UI for creating sounds for Synthesizers
 
@@ -50,7 +47,7 @@ Some commercial products that outstand.
 - [Sonic Pi](https://github.com/sonic-pi-net/sonic-pi) - Write Code for Music
 
 
-## DIY
+## DIY / Hardware
 
 About this section. Optional. Keep this short and focus on the list.
 
@@ -84,6 +81,12 @@ About this section. Optional. Keep this short and focus on the list.
 ### Music Visualizer
 
 - [projectM](https://github.com/projectM-visualizer/projectm) - Experience psychedelic and mesmerizing visuals by transforming music into equations that render into a limitless array of user-contributed visualizations.
+
+## Hardware
+
+Some commercial products that outstand.
+
+- [Yaeltex](https://yaeltex.com/) - custom MIDI controllers made in harmony between humans and machines in Buenos Aires, Argentina.
 
 ## Contribute
 
