@@ -62,6 +62,10 @@ About this section. Optional. Keep this short and focus on the list.
 - [Fliper-2](https://github.com/silveirago/Fliper-2) - Take the Arduino Pro Micro and makes it MIDI clas compliant MIDI controller
 - [CDJ-1000mk3 NEW LIFE](https://www.youtube.com/watch?v=mzPkP1C88oQ) - add a color TFT display to the Pioneer CDJ-1000mk3 with waveforms and precise BPM counter
 
+### Effects
+
+- [Plate Reverb](https://www.youtube.com/watch?v=CZWAntOnrx4) - DIY Plate Reverb with Ikea BROR emulating a EMT Plate Reverb
+
 ### Lightening / Laser
 
 - [LaserProjector](https://github.com/DeltaFlo/LaserProjector) - Arduino driven Laser Projector using real galvos, read the [Tutorial](https://www.instructables.com/Arduino-Laser-Show-With-Real-Galvos/)
