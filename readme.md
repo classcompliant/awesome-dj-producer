@@ -45,6 +45,7 @@
 ### Programming
 
 - [Sonic Pi](https://github.com/sonic-pi-net/sonic-pi) - Write Code for Music
+- [Dittytoy](https://dittytoy.net/syntax) - create generative music using a minimalistic javascript API
 
 
 ## DIY / Hardware
