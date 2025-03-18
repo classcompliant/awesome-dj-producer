@@ -38,6 +38,7 @@
 
 ### Synthesizer
 
+- [QAN1X Editor](https://github.com/thefinalcutbg/QAN1xEditor) - Awesome Editor for the Yamaha AN1x synthesizer (OSX, UNIX, WIN)
 - [DSP56300](https://dsp56300.wordpress.com/) - Reverse Engineering and Emulating the Motorola DSP563xx for Access Virus C & other virtual analogue synthesizers
 - [Surge](https://surge-synthesizer.github.io/) - Free & Open Source hybrid Synthesizer for Linux, Mac, Windows
 - [Patch Base](https://coffeeshopped.com/patch-base) - UI for creating sounds for Synthesizers
