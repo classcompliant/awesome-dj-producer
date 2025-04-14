@@ -43,6 +43,22 @@
 - [Surge](https://surge-synthesizer.github.io/) - Free & Open Source hybrid Synthesizer for Linux, Mac, Windows
 - [Patch Base](https://coffeeshopped.com/patch-base) - UI for creating sounds for Synthesizers
 
+### Synth Presets
+
+- https://limbicbits.com/
+- https://www.audiotent.com/
+- https://lfo.store/
+- https://www.ultimatepatches.com/
+- https://www.resonance-sound.com/
+- https://www.zenhiser.com/
+
+### Music Visualizer
+
+- [synesthesia](https://synesthesia.live/) - generative graphics, audio reactivity, and intuitive controls.
+- [TouchDesigner](https://derivative.ca/) - TouchDesigner is a visual programming software used to create real-time interactive multimedia content such as animations, installations, and live performances. It enables users to build dynamic visuals by connecting nodes without traditional coding.
+- [vidvox VDMX6](https://www.vidvox.net/) - real-time video performance software designed for live visual artists, offering a customizable, hardware-accelerated engine for mixing, layering, and processing video with interactive effects
+- [projectM](https://github.com/projectM-visualizer/projectm) - Experience psychedelic and mesmerizing visuals by transforming music into equations that render into a limitless array of user-contributed visualizations.
+
 ### Programming
 
 - [Sonic Pi](https://github.com/sonic-pi-net/sonic-pi) - Write Code for Music
@@ -83,10 +99,6 @@ About this section. Optional. Keep this short and focus on the list.
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - analyzing, reverse engineering, and extracting firmware images
 - [Pioneer DJS 1000 Hack](https://www.reddit.com/r/DJs/comments/cb4oom/a_twitter_user_hacks_pioneer_gear_interesting/) - interesting look into the underlying Linux functionality
 - [Launchpad Pro performance-optimized Custom Firmware](https://github.com/mat1jaczyyy/lpp-performance-cfw/) - custom firmware for the Launchpad Pro ([Video](https://www.youtube.com/watch?v=6RfCKHeGWe0))
-
-### Music Visualizer
-
-- [projectM](https://github.com/projectM-visualizer/projectm) - Experience psychedelic and mesmerizing visuals by transforming music into equations that render into a limitless array of user-contributed visualizations.
 
 ## Hardware
 
