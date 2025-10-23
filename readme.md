@@ -80,6 +80,10 @@ About this section. Optional. Keep this short and focus on the list.
 - [Fliper-2](https://github.com/silveirago/Fliper-2) - Take the Arduino Pro Micro and makes it MIDI clas compliant MIDI controller
 - [CDJ-1000mk3 NEW LIFE](https://www.youtube.com/watch?v=mzPkP1C88oQ) - add a color TFT display to the Pioneer CDJ-1000mk3 with waveforms and precise BPM counter
 
+### DJ Mixer
+
+- [Ploytec Driver for Allen&Heath](https://github.com/mischa85/snd-xonedb4) - A driver for several Ploytec audio/MIDI interfaces like  Allen&Heath Xone:DB4 | Xone:DB2 | Xone:DX | Xone:2D | Xone:4D | WZ4:USB
+
 ### Effects
 
 - [Plate Reverb](https://www.youtube.com/watch?v=CZWAntOnrx4) - DIY Plate Reverb with Ikea BROR emulating a EMT Plate Reverb
