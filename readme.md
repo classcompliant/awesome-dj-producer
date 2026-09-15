@@ -36,6 +36,10 @@
 - [Mixxx](https://github.com/mixxxdj/mixxx) - Free DJ for GNU/Linux, Windows, and macOS
 - [PiDeck](https://pideck.com/) - Putting embedded GNU/Linux and open source DVS into turntables
 
+### Tools
+
+- [FindKeyBPM](https://findkeybpm.com/) - Free key + BPM finder in the browser for DJs and producers
+
 ### Synthesizer
 
 - [QAN1X Editor](https://github.com/thefinalcutbg/QAN1xEditor) - Awesome Editor for the Yamaha AN1x synthesizer (OSX, UNIX, WIN)
