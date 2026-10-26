@@ -13,6 +13,7 @@
 ## Ressources
 
 - [ClassCompliant](https://classcompliant.com) - Archive and Hacks for all class compliant Music Gear
+- [Safe Headphone Volume Calculator](https://theaudiostuff.com/tools/safe-listening-calculator/) - Free browser calculator that estimates how loud your headphones get and the safe daily listening time under the NIOSH 85 dBA guideline
 
 ## Software
 
