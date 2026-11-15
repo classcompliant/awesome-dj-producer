@@ -13,6 +13,7 @@
 ## Ressources
 
 - [ClassCompliant](https://classcompliant.com) - Archive and Hacks for all class compliant Music Gear
+- [No Stairs Please](https://nostairsplease.com/) - Every small stage in all 50 states, and who books it ([venues directory](https://nostairsplease.com/venues))
 
 ## Software
 
